@@ -1,0 +1,14 @@
+com/androidscrabble/MainActivity.java
+ com.androidscrabble.MainActivity
+com/androidscrabble/BuildConfig.java
+ com.androidscrabble.BuildConfig
+com/androidscrabble/MainApplication.java
+ com.androidscrabble.MainApplication
+ com.androidscrabble.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/androidscrabble/ReactNativeFlipper.java
+ com.androidscrabble.ReactNativeFlipper
+ com.androidscrabble.ReactNativeFlipper$1
+ com.androidscrabble.ReactNativeFlipper$2
+ com.androidscrabble.ReactNativeFlipper$2$1
